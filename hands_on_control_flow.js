@@ -52,7 +52,7 @@ while (count <5){
 
 //Object Person
 let person = {
-    name = 'Sunway Tech Club',
+    name : 'Sunway Tech Club',
     age: 18
 };
 
@@ -70,11 +70,14 @@ for (let item of colours){
     console.log(item);
 }
 
+for(let i=0; i<colours.length; i++){
+    console.log(i);
+}
 
-//Exercise 1
-//Create a function that will return the total,that was calculated 
-//by adding from numbers that are divisible by either 3 or 5 in the range 
-//of value stated 
+// Exercise 1
+// Create a function that will return the total,that was calculated 
+// by adding from numbers that are divisible by either 3 or 5 in the range 
+// of value stated 
 
 function sum (num){
     let total = 0;
