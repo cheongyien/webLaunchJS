@@ -4,7 +4,7 @@ JavaScript is a dynamic , interpreted and high-level programming language. In he
 
 # Table of contents
 
-- [JavaScript](README.md)
+- [JavaScript](#javaScript)
 - [How to write JavaScript in HTML](how-to-write-javascript-in-html.md)
 
 ## Basics of JavaScript
@@ -27,7 +27,7 @@ JavaScript is a dynamic , interpreted and high-level programming language. In he
 - [Function](control-flow/function.md)
 - [Exercise](control-flow/exercise.md)
 
-# JavaScript
+# JavaScript <a name = "javaScript"></a>
 
 There are two types of programming languages:
 
