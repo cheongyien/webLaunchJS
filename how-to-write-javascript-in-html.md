@@ -6,13 +6,11 @@ Over here, we are going to teach you 3 methods to write a message in JavaScript.
 
 * **alert\(\)**
 
-> alert()
->>
+> try this!
 ```javascript
     alert('Hello World');
 ``` 
->
->> Output 
+> This will be the output on your browser
 >> ![](.gitbook/assets/image%20%289%29.png)
 
 
