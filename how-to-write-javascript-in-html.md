@@ -6,41 +6,33 @@ Over here, we are going to teach you 3 methods to write a message in JavaScript.
 
 * **alert\(\)**
 
-> try this!
+<!-- > try alert() -->
 ```javascript
     alert('Hello World');
 ``` 
-> This will be the output on your browser
+> This will be the output in your browser
 >> ![](.gitbook/assets/image%20%289%29.png)
 
 
 
 * **document.write\(\)**
 
-{% tabs %}
-{% tab title="document.write\(\)" %}
 ```javascript
 document.write("Hello World");
 ```
-{% endtab %}
 
-{% tab title="Output" %}
-![](.gitbook/assets/image%20%2815%29.png)
-{% endtab %}
-{% endtabs %}
+> This will be the output in your browser
+>> ![](.gitbook/assets/image%20%2815%29.png)
+
 
 * **innerHTML**
 
 **`innerHTML`** has to be tagged along with the element that you want to change using a query selector.
 
-{% hint style="info" %}
-In this section, the query selector that you will learn is **`getElementById()`**
-{% endhint %}
+> :information_source:  In this section, the query selector that you will learn is **`getElementById()`**
 
 If i were to modify the message in `<p>` with `id='change'`to "Hello World", I can choose the element by using `getElementById("change")`and assign it with the value I want.
 
-{% tabs %}
-{% tab title="innerHTML" %}
 ```markup
 <!DOCTYPE html>
 <html>
@@ -59,16 +51,14 @@ If i were to modify the message in `<p>` with `id='change'`to "Hello World", I c
     </body>
 </html>
 ```
-{% endtab %}
 
-{% tab title="Before adding <script>" %}
-![](.gitbook/assets/gitbook_innerhtml_before.jpg)
-{% endtab %}
+> Before adding <script>
+>> ![](.gitbook/assets/gitbook_innerhtml_before.jpg)
 
-{% tab title="After adding <script>" %}
-![](.gitbook/assets/gitbook_innerhtml_after.jpg)
-{% endtab %}
-{% endtabs %}
+
+> After adding <script>
+>> ![](.gitbook/assets/gitbook_innerhtml_after.jpg)
+
 
 ### :heavy_check_mark: To write JavaScript in a HTML file
 
@@ -98,17 +88,11 @@ We need to include **`<script>   </script>`** in the **`<body>`** of the HTML el
 
 These are the outputs:
 
-{% tabs %}
-{% tab title="alert\(\'Hello World\'\);" %}
-![](.gitbook/assets/gitbook_js_html_1.jpg)
-{% endtab %}
+> alert\(\'Hello World\'\);
+>> ![](.gitbook/assets/gitbook_js_html_1.jpg)
 
-{% tab title="document.write\(\'I love WebLaunch\'\);" %}
-![](.gitbook/assets/gitbook_js_html_2.jpg)
-{% endtab %}
+> document.write\(\'I love WebLaunch\'\);
+>> ![](.gitbook/assets/gitbook_js_html_2.jpg)
 
-{% tab title="document.getElementById\(\'this\'\).innerHTML=\'Change to This!\';" %}
-![](.gitbook/assets/gitbook_js_html_3.jpg)
-{% endtab %}
-{% endtabs %}
-
+> document.getElementById\(\'this\'\).innerHTML=\'Change to This!\';
+>> ![](.gitbook/assets/gitbook_js_html_3.jpg)
