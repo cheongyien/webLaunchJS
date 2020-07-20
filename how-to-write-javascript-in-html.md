@@ -9,12 +9,12 @@ Over here, we are going to teach you 3 methods to write a message in JavaScript.
 ```javascript
     alert('Hello World');
 ``` 
-<!-- > This will be the output in your browser
->> ![](.gitbook/assets/image%20%289%29.png) -->
+> This will be the output in your browser
+>> ![](.gitbook/assets/image%20%289%29.png)
 
-|   This will be the output in your browser |
+<!-- |   This will be the output in your browser |
 |:--|
-| ![](.gitbook/assets/image%20%289%29.png) |
+| ![](.gitbook/assets/image%20%289%29.png) | -->
 
 
 <br>
