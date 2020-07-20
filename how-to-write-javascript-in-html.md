@@ -41,7 +41,7 @@ document.write("Hello World");
 
 <br>
 
-```markup
+```HTML
 <!DOCTYPE html>
 <html>
     <head>
@@ -79,7 +79,7 @@ document.write("Hello World");
 
 We need to include **`<script>   </script>`** in the **`<body>`** of the HTML element.
 
-```markup
+```HTML
 <!DOCTYPE html>
 <html>
     <head>
@@ -103,11 +103,6 @@ We need to include **`<script>   </script>`** in the **`<body>`** of the HTML el
 
 These are the outputs:<br>
 
-> alert\(\'Hello World\'\);
->> ![](.gitbook/assets/gitbook_js_html_1.jpg)
-
-> document.write\(\'I love WebLaunch\'\);
->> ![](.gitbook/assets/gitbook_js_html_2.jpg)
-
-> document.getElementById\(\'this\'\).innerHTML=\'Change to This!\';
->> ![](.gitbook/assets/gitbook_js_html_3.jpg)
+| alert\(\'Hello World\'\); | document.write\(\'I love WebLaunch\'\); | document.getElementById\(\'this\'\).innerHTML=\'Change to This!\'; |
+|---|---|--|
+| ![](.gitbook/assets/gitbook_js_html_1.jpg) | ![](.gitbook/assets/gitbook_js_html_2.jpg) | ![](.gitbook/assets/gitbook_js_html_3.jpg) |
