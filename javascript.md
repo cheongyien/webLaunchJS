@@ -21,5 +21,5 @@ I can change the value of id to any data type i want.
 
 ![](.gitbook/assets/image%20%2814%29.png)
 
-| :arrow_backward: Previous Page :arrow_backward: [Table of contents :memo:](README.md)| |:arrow_forward: Next Page :arrow_forward: [How to write JavaScript in HTML :triangular_flag_on_post:](how-to-write-javascript-in-html.md)|
-|:---|:----:|---:|
+:arrow_backward: Previous Page : [Table of contents :memo:](README.md  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_forward: Next Page : [How to write JavaScript in HTML :triangular_flag_on_post:](how-to-write-javascript-in-html.md)
+
