@@ -12,7 +12,7 @@ Over here, we are going to teach you 3 methods to write a message in JavaScript.
 <!-- > This will be the output in your browser
 >> ![](.gitbook/assets/image%20%289%29.png) -->
 
-| This will be the output in your browser |
+|   This will be the output in your browser |
 |:--|
 | ![](.gitbook/assets/image%20%289%29.png) |
 
@@ -22,7 +22,7 @@ Over here, we are going to teach you 3 methods to write a message in JavaScript.
 * **document.write\(\)**
 
 ```javascript
-document.write("Hello World");
+    document.write("Hello World");
 ```
 
 > This will be the output in your browser
@@ -42,22 +42,22 @@ document.write("Hello World");
 <br>
 
 ```HTML
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>InnerHTML</title>
-    </head>
+    <!DOCTYPE html>
+    <html>
+        <head>
+            <title>InnerHTML</title>
+        </head>
 
-    <body>
-        <p>This is line 1</p>
-        <p id='change'>This is line 2</p>
+        <body>
+            <p>This is line 1</p>
+            <p id='change'>This is line 2</p>
 
-        <script>
-            document.getElementById('change').innerHTML = 'Hello World';
-        </script>
+            <script>
+                document.getElementById('change').innerHTML = 'Hello World';
+            </script>
 
-    </body>
-</html>
+        </body>
+    </html>
 ```
 <br>
 
@@ -105,4 +105,4 @@ These are the outputs:<br>
 
 | alert\(\'Hello World\'\); | document.write\(\'I love WebLaunch\'\); | document.getElementById\(\'this\'\).innerHTML=\'Change to This!\'; |
 |---|---|--|
-| ![](.gitbook/assets/gitbook_js_html_1.jpg) | ![](.gitbook/assets/gitbook_js_html_2.jpg) | ![](.gitbook/assets/gitbook_js_html_3.jpg) |
+| ![](.gitbook/assets/gitbook_js_html_2.jpg) | ![](.gitbook/assets/gitbook_js_html_1.jpg) | ![](.gitbook/assets/gitbook_js_html_3.jpg) |
