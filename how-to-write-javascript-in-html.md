@@ -7,10 +7,10 @@ Over here, we are going to teach you 3 methods to write a message in JavaScript.
 * **alert\(\)**
 
 > alert()
->
+>>
 ```javascript
     alert('Hello World');
-    ``` 
+``` 
 >
 >> Output 
 >> ![](.gitbook/assets/image%20%289%29.png)
