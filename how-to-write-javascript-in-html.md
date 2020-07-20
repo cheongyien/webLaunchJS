@@ -1,6 +1,6 @@
 # :triangular_flag_on_post:How to write JavaScript in HTML
 
-### :heavy_check_mark: How to write a message in JavaScript
+### :heavy_check_mark: <ins>How to write a message in JavaScript</ins>
 
 Over here, we are going to teach you 3 methods to write a message in JavaScript.
 
@@ -75,7 +75,7 @@ Over here, we are going to teach you 3 methods to write a message in JavaScript.
 
 <br>
 
-### :heavy_check_mark: To write JavaScript in a HTML file
+### :heavy_check_mark: <ins>To write JavaScript in a HTML file</ins>
 
 We need to include **`<script>   </script>`** in the **`<body>`** of the HTML element.
 
