@@ -29,10 +29,12 @@ document.write("Hello World");
 
     **`innerHTML`** has to be tagged along with the element that you want to change using a query selector.<br>
 
-> :information_source:  In this section, the query selector that you will learn is **`getElementById()`**
+    > :information_source:  In this section, the query selector that you will learn is **`getElementById()`**
 
 
-    If i were to modify the message in `<p>` with `id='change'`to "Hello World", I can choose the element by using `getElementById("change")`and assign it with the value I want.<br>
+If i were to modify the message in `<p>` with `id='change'`to "Hello World", I can choose the element by using `getElementById("change")`and assign it with the value I want.
+
+<br>
 
 ```markup
 <!DOCTYPE html>
@@ -52,10 +54,12 @@ document.write("Hello World");
     </body>
 </html>
 ```
+<br>
 
 > Before adding <script>
 >> ![](.gitbook/assets/gitbook_innerhtml_before.jpg)
 
+<br>
 
 > After adding <script>
 >> ![](.gitbook/assets/gitbook_innerhtml_after.jpg)
