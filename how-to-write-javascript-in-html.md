@@ -6,17 +6,16 @@ Over here, we are going to teach you 3 methods to write a message in JavaScript.
 
 * **alert\(\)**
 
-{% tabs %}
-{% tab title="alert\(\)" %}
+> alert()
+>
 ```javascript
-alert('Hello World');
-```
-{% endtab %}
+    alert('Hello World');
+    ``` 
+>
+>> Output 
+>> ![](.gitbook/assets/image%20%289%29.png)
 
-{% tab title="Output" %}
-![](.gitbook/assets/image%20%289%29.png)
-{% endtab %}
-{% endtabs %}
+
 
 * **document.write\(\)**
 
