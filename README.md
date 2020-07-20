@@ -1,33 +1,42 @@
 # JavaScript @STC_WebLaunch
 
+<hr>
+
 JavaScript is a dynamic , interpreted and high-level programming language. In here, we are going to cover necessary skills in JavaScript that will help you in creating a web page.
+<br>
+<br>
 
-# Table of contents
+<!-- <hr> -->
 
-- [JavaScript](#javaScript)
-- [How to write JavaScript in HTML](how-to-write-javascript-in-html.md)
+## <ins>Table of contents</ins>
 
-## Basics of JavaScript
+- [_JavaScript_](#javaScript)
+- [_How to write JavaScript in HTML_](how-to-write-javascript-in-html.md)
 
-- [Variables](basics-of-javascript/variables-and-constant.md)
-- [Constant](basics-of-javascript/constant.md)
-- [Primitive Types](basics-of-javascript/primitive-types.md)
-- [Array](basics-of-javascript/array.md)
+#### _Basics of JavaScript_
 
-## Control Flow
+- [_Variables_](basics-of-javascript/variables-and-constant.md)
+- [_Constant_](basics-of-javascript/constant.md)
+- [_Primitive Types_](basics-of-javascript/primitive-types.md)
+- [_Array_](basics-of-javascript/array.md)
 
-- [Conditional Statements](control-flow/conditional-statements/README.md)
-  - [If and Else \(if....else\)](control-flow/conditional-statements/if-and-else-if....else.md)
-  - [Switch and Case](control-flow/conditional-statements/switch-and-case.md)
-- [Loops](control-flow/loops/README.md)
-  - [While Loop](control-flow/loops/for-loop-1.md)
-  - [For Loop](control-flow/loops/for-loop.md)
-- [Object](control-flow/object.md)
-- [Array](control-flow/array.md)
-- [Function](control-flow/function.md)
-- [Exercise](control-flow/exercise.md)
+#### _Control Flow_
 
-# JavaScript <a name = "javaScript"></a>
+- [_Conditional Statements_](control-flow/conditional-statements/README.md)
+  - [_If and Else \(if....else\)_](control-flow/conditional-statements/if-and-else-if....else.md)
+  - [_Switch and Case_](control-flow/conditional-statements/switch-and-case.md)
+- [_Loops_](control-flow/loops/README.md)
+  - [_While Loop_](control-flow/loops/for-loop-1.md)
+  - [_For Loop_](control-flow/loops/for-loop.md)
+- [_Object_](control-flow/object.md)
+- [_Array_](control-flow/array.md)
+- [_Function_](control-flow/function.md)
+- [_Exercise_](control-flow/exercise.md)
+
+<br>
+<br>
+
+## <ins>JavaScript</ins> <a name = "javaScript"></a>
 
 There are two types of programming languages:
 
