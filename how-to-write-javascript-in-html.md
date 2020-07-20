@@ -9,8 +9,13 @@ Over here, we are going to teach you 3 methods to write a message in JavaScript.
 ```javascript
     alert('Hello World');
 ``` 
-> This will be the output in your browser
->> ![](.gitbook/assets/image%20%289%29.png)
+<!-- > This will be the output in your browser
+>> ![](.gitbook/assets/image%20%289%29.png) -->
+
+| This will be the output in your browser |
+|:--|
+| ![](.gitbook/assets/image%20%289%29.png) |
+
 
 <br>
 
@@ -56,13 +61,17 @@ document.write("Hello World");
 ```
 <br>
 
-> Before adding <script>
+| Before adding <script> | After adding <script> |
+|---|---|
+| ![](.gitbook/assets/gitbook_innerhtml_before.jpg) | ![](.gitbook/assets/gitbook_innerhtml_after.jpg) |
+
+<!-- > Before adding <script>
 >> ![](.gitbook/assets/gitbook_innerhtml_before.jpg)
 
 <br>
 
 > After adding <script>
->> ![](.gitbook/assets/gitbook_innerhtml_after.jpg)
+>> ![](.gitbook/assets/gitbook_innerhtml_after.jpg) -->
 
 <br>
 
@@ -92,7 +101,7 @@ We need to include **`<script>   </script>`** in the **`<body>`** of the HTML el
 </html>
 ```
 
-These are the outputs:
+These are the outputs:<br>
 
 > alert\(\'Hello World\'\);
 >> ![](.gitbook/assets/gitbook_js_html_1.jpg)
