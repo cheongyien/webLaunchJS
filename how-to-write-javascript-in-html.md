@@ -61,13 +61,9 @@ document.write("Hello World");
 ```
 <br>
 
-<style> .innerHTMLtable table {width: 70% }</style>
-<div class="innerHTMLtable">
 | <ins>Before adding <script></ins> | <ins>After adding <script></ins> |
 |---|---|
 | ![](.gitbook/assets/gitbook_innerhtml_before.jpg) | ![](.gitbook/assets/gitbook_innerhtml_after.jpg) |
-
-</div>
 
 <!-- > Before adding <script>
 >> ![](.gitbook/assets/gitbook_innerhtml_before.jpg)
