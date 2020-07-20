@@ -104,5 +104,5 @@ We need to include **`<script>   </script>`** in the **`<body>`** of the HTML el
 These are the outputs:<br>
 
 | alert\(\'Hello World\'\); | document.write\(\'I love WebLaunch\'\); | document.getElementById\(\'this\'\).innerHTML=\'Change to This!\'; |
-|---|---|--|
+|:---|:---|:--|
 | ![](.gitbook/assets/gitbook_js_html_2.jpg) | ![](.gitbook/assets/gitbook_js_html_1.jpg) | ![](.gitbook/assets/gitbook_js_html_3.jpg) |
