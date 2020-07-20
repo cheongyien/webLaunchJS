@@ -32,7 +32,7 @@ document.write("Hello World");
     > :information_source:  In this section, the query selector that you will learn is **`getElementById()`**
 
 
-If i were to modify the message in `<p>` with `id='change'`to "Hello World", I can choose the element by using `getElementById("change")`and assign it with the value I want.
+    If i were to modify the message in `<p>` with `id='change'`to "Hello World", I can choose the element by using `getElementById("change")`and assign it with the value I want.
 
 <br>
 
@@ -64,6 +64,7 @@ If i were to modify the message in `<p>` with `id='change'`to "Hello World", I c
 > After adding <script>
 >> ![](.gitbook/assets/gitbook_innerhtml_after.jpg)
 
+<br>
 
 ### :heavy_check_mark: To write JavaScript in a HTML file
 
