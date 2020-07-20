@@ -1,13 +1,8 @@
-# WebLaunch @Javascript
----
-description: >-
-  JavaScript is a dynamic , interpreted and high-level programming language. In
-  here, we are going to cover necessary skills in JavaScript that will help you
-  in creating a web page.
----
+# JavaScript @STC_WebLaunch 
 
-# JavaScript
+JavaScript is a dynamic , interpreted and high-level programming language. In here, we are going to cover necessary skills in JavaScript that will help you in creating a web page.
 
+## JavaScript
 There are two types of programming languages:
 
 * Static language
