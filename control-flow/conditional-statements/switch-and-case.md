@@ -1,9 +1,8 @@
-# Switch and Case
+# :key: Switch and Case
 
 Let's try making the application to print out the choice that you have input using a switch case.
 
-{% hint style="info" %}
-First, create a variable **`choice`**. 
+> :information_source:  First, create a variable **`choice`**. <br><hr>
 
 Then in the parenthesis of **`switch`**, key in the name of the input that will be tested, in this case choice.
 
@@ -49,18 +48,14 @@ else{
 
 Now, let's try an exercise!
 
-### Exercise
+### <ins>Exercise</ins>
 
 I have strawberries, mango, durian. I want the application to print out `"I Love Strawberries!"` if I choose A , and mango if i choose B, vice versa.
 
-{% tabs %}
-{% tab title="Your Answer" %}
-```javascript
+<details>
+<summary>Want Answer? Press me!</summary>
+<br>
 
-```
-{% endtab %}
-
-{% tab title="My Answer" %}
 ```javascript
 let choice;
 
@@ -79,6 +74,6 @@ switch (choice){
 }
 
 ```
-{% endtab %}
-{% endtabs %}
+</details>
 
+[:arrow_backward: Previous Page : Conditional Statements : Switch and Case :key: ](switch-and-case.md)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:house_with_garden:](../../README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [:arrow_forward: Next Page : Control Flow : Loops :triangular_flag_on_post:](../loops/README.md)
