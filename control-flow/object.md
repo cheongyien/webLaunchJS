@@ -10,7 +10,7 @@ let dob = '01/01/2002';
 
 However, if i were to create the this properties of 10 person and printing it one by one, this will be a lot of work. Hence, we can use **object** to store the properties and then key in the values.
 
-### Creating an Object
+### :heavy_check_mark:  Creating an Object
 
 Let's say I want to create an **object** named person, with properties as stated above. I just need to type:
 
@@ -33,9 +33,10 @@ So if i want to take a look of what is stored in this person, i can just `consol
 
 >> ![](../.gitbook/assets/gitbook_object_expand.jpg)<br><hr></details>
 </details>
-<br><br>
+<br>
 
-#### To print the properties of an object
+
+### :heavy_check_mark:  To print the properties of an object
 
 We can use `for in` loop to print the properties of the **object**, in this case, `name`, `age` and `dob`.
 
