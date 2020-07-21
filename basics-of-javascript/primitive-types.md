@@ -1,10 +1,6 @@
----
-description: >-
-  There are two types of data type in JavaScript, namely primitive type and
-  reference type. We are going to cover primitive type over here only.
----
+# :unlock: Primitive Types
 
-# Primitive Types
+> There are two types of data type in JavaScript, namely primitive type and reference type. We are going to cover primitive type over here only.
 
 In the category of primitive types, aka value type, we have:
 
@@ -27,6 +23,10 @@ let lastName = undefined
 let's check the type of the data using **`typeof`** in the console.
 
 ![](../.gitbook/assets/image%20%2816%29.png)
+
+<br><br><br>
+
+[:arrow_backward: Previous Page : Basics of JavaScript : Constant :unlock:](constant.md)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:house_with_garden:](../README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [:arrow_forward: Next Page : Basics of JavaScript : Array :unlock:](array.md)
 
 
 

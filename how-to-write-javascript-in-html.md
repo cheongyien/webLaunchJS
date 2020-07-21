@@ -35,7 +35,6 @@ Over here, we are going to teach you 3 methods to write a message in JavaScript.
     **`innerHTML`** has to be tagged along with the element that you want to change using a query selector.
     
     <br>
-
     > :information_source:  In this section, the query selector that you will learn is **`getElementById()`**
     <br>
 

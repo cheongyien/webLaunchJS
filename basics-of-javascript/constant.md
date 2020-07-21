@@ -6,10 +6,12 @@ In situation where we don't want the value of a variable to be changed, we can u
 const birthMonth = 10;
 console.log(birthMonth);
 ```
+<br>
 
-{% hint style="warning" %}
-We are not allowed to change the value of a constant. 
-{% endhint %}
+> :information_source:  We are not allowed to change the value of a constant. 
+<br>
+
+
 
 Let's try doing it and see what will happen.
 
