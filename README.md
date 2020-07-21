@@ -20,7 +20,7 @@ JavaScript is a dynamic , interpreted and high-level programming language. In he
     - :key: [_If and Else \(if....else\)_](control-flow/conditional-statements/if-and-else-if....else.md)
     - :key: [_Switch and Case_](control-flow/conditional-statements/switch-and-case.md)
   - :unlock: [_Loops_](control-flow/loops/README.md)
-    - :key: [_While Loop_](control-flow/loops/for-loop-1.md)
+    - :key: [_While Loop_](control-flow/loops/while-loop.md)
     - :key: [_For Loop_](control-flow/loops/for-loop.md)
   - :unlock: [_Object_](control-flow/object.md)
   - :unlock: [_Array_](control-flow/array.md)
