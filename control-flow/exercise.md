@@ -1,33 +1,17 @@
----
-description: Let's practise how to use what you have learnt under control flow!
----
+# :dart:    Exercise
 
-# Exercise
+>   Let's practise how to use what you have learnt under control flow!
 
-### Exercise 1 
+
+### <ins>Exercise 1 </ins>
 
 Create a function named sum, that will return the total,that was calculated by adding from numbers that are divisible by either 3 or 5 in the range of value stated.
 
-{% hint style="info" %}
-**For instance:**
+>   :information_source:    **For instance:** <br>`sum(5)`<br>**Output:**<br>`8`<br>**Output = 3 + 5, that is anything divisible by 3 or 5 that is within the range of 5.**
+<br><hr>
 
-`sum(5)`
+<details><summary> :crossed_flags: Click Me For Answer! :crossed_flags: </summary><br>
 
-**Output:**
-
-`8`
-
-**Output = 3 + 5, that is anything divisible by 3 or 5 that is within the range of 5.**
-{% endhint %}
-
-{% tabs %}
-{% tab title="Your Answer" %}
-```javascript
-
-```
-{% endtab %}
-
-{% tab title="My Answer" %}
 ```javascript
 function sum (num){
     let total = 0;
@@ -38,35 +22,23 @@ function sum (num){
     return total;
 }
 ```
-{% endtab %}
-{% endtabs %}
+</details>
 
-### Exercise 2
+### <ins>Exercise 2</ins>
 
 Print the pattern of asterisks\(\*\) as shown below:
 
 \*
-
 \*\*
-
 \*\*\*
-
 \*\*\*\*
-
 \*\*\*\*\*
 
-{% hint style="info" %}
-The number of asterisks \(\*\) is proportional to its row number.
-{% endhint %}
+>   information_source: The number of asterisks \(\*\) is proportional to its row number.
+<br><hr>
 
-{% tabs %}
-{% tab title="Your Answer" %}
-```javascript
+<details><summary> :crossed_flags: Click Me For Answer! :crossed_flags: </summary><br>
 
-```
-{% endtab %}
-
-{% tab title="My Answer" %}
 ```javascript
 function showStars(num){
     for (let row = 1; row<= num; row++){
@@ -77,10 +49,14 @@ function showStars(num){
     }
 }
 ```
-{% endtab %}
-{% endtabs %}
+</details>
 
-{% hint style="success" %}
-Yeah 🎉🎉🎉You have now mastered basics and control flow of JavaScript🎉🎉🎉!
-{% endhint %}
+
+>   :white_check_mark:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :crossed_flags: Yeah 🎉🎉🎉You have now mastered basics and control flow of JavaScript🎉🎉🎉!   :crossed_flags:
+<br><hr>
+
+<br><br><br>
+<hr>
+
+[:arrow_backward: Previous Page : Control Flow : Function :triangular_flag_on_post: :unlock: ](function.md)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:house_with_garden:](../../README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [:arrow_forward: Next Page : Pupu's part ](exercise.md)
 
