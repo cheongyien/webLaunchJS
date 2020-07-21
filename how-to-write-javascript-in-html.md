@@ -72,12 +72,15 @@ If i were to modify the message in `<p>` with `id='change'`to "Hello World", I c
 <details><summary><ins>Before adding <script></ins></summary>
 <br> 
 
-![](.gitbook/assets/gitbook_innerhtml_before.jpg)
+> ![](.gitbook/assets/gitbook_innerhtml_before.jpg)
+<br><hr>
 </details>
+
 <details><summary><ins>After adding <script></ins></summary>
 <br>
 
-![](.gitbook/assets/gitbook_innerhtml_after.jpg) |
+> ![](.gitbook/assets/gitbook_innerhtml_after.jpg) |
+<br><hr>
 </details>
 
 </details>
