@@ -14,9 +14,8 @@ console.log(birthDate);
 
 In order to print the variables that you have keyed in to the console, you can use the `console.log()`, and fill up the name of the variable between the parentheses`()`. For example, `console.log(surname)` is used to print the **surname** in the console. 
 
-{% hint style="info" %}
-#### You can press `Ctrl + Shift + i` to open the console in your browser.
-{% endhint %}
+> :information_source:  #### You can press `Ctrl + Shift + i` to open the console in your browser.
+
 
 We can actually use the variable type, `string`, to store a string value.
 
