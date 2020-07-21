@@ -33,7 +33,7 @@ So if i want to take a look of what is stored in this person, i can just `consol
 
 >> ![](../.gitbook/assets/gitbook_object_expand.jpg)<br><hr></details>
 </details>
-
+<br><br>
 #### To print the properties of an object
 
 We can use `for in` loop to print the properties of the **object**, in this case, `name`, `age` and `dob`.
