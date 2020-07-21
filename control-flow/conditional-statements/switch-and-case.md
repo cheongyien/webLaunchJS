@@ -2,7 +2,8 @@
 
 Let's try making the application to print out the choice that you have input using a switch case.
 
-> :information_source:  First, create a variable **`choice`**. <br><hr>
+> :information_source:  First, create a variable **`choice`**. 
+<br><hr>
 
 Then in the parenthesis of **`switch`**, key in the name of the input that will be tested, in this case choice.
 
