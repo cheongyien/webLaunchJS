@@ -1,6 +1,11 @@
 # :triangular_flag_on_post:How to write JavaScript in HTML
 
-### :heavy_check_mark: <ins>How to write a message in JavaScript</ins>
+<details>
+<summary> 
+
+### :heavy_check_mark: <ins>How to write a message in JavaScript</ins>    
+</summary>
+<br>
 
 Over here, we are going to teach you 3 methods to write a message in JavaScript.
 
@@ -76,9 +81,14 @@ Over here, we are going to teach you 3 methods to write a message in JavaScript.
 >> ![](.gitbook/assets/gitbook_innerhtml_after.jpg) -->
 
 <br>
+</details>
+
+<details>
+<summary>
 
 ### :heavy_check_mark: <ins>To write JavaScript in a HTML file</ins>
-
+</summary>
+<br>
 We need to include **`<script>   </script>`** in the **`<body>`** of the HTML element.
 
 ```HTML
@@ -108,6 +118,7 @@ We need to include **`<script>   </script>`** in the **`<body>`** of the HTML el
 | alert\(\'Hello World\'\); | document.write\(\'I love WebLaunch\'\); | document.getElementById\(\'this\'\).innerHTML=\'Change to This!\'; |
 |---|---|--|
 | ![](.gitbook/assets/gitbook_js_html_2.jpg) | ![](.gitbook/assets/gitbook_js_html_1.jpg) | ![](.gitbook/assets/gitbook_js_html_3.jpg) |
+</details>
 
 <br><br><br>
 <hr>
