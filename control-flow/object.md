@@ -1,4 +1,4 @@
-# Object
+# :unlock:  Object
 
 If I were to create variables called name, age, DOB, address of a person, i can just simply type:
 
@@ -24,15 +24,14 @@ let person = {
 
 So if i want to take a look of what is stored in this person, i can just `console.log(person)`in the console. And I will see this:
 
-{% tabs %}
-{% tab title="Console" %}
-![](../.gitbook/assets/gitbook_object.jpg)
-{% endtab %}
+<details><summary>Output</summary><br>
 
-{% tab title="Upon Expanding" %}
-![](../.gitbook/assets/gitbook_object_expand.jpg)
-{% endtab %}
-{% endtabs %}
+>   ![](../.gitbook/assets/gitbook_object.jpg)
+<br><hr>
+
+> <details><summary>Upon Expanding</summary><br>   
+>>  ![](../.gitbook/assets/gitbook_object_expand.jpg)<br><hr></details>
+</details>
 
 #### To print the properties of an object
 
@@ -52,7 +51,9 @@ for (let properties in person ){
 }
 ```
 
-{% hint style="warning" %}
-**`person.properties`**`shows the value of the properties.`
-{% endhint %}
+>   :warning:   **`person.properties`**`shows the value of the properties.`
 
+<br><br><br>
+<hr>
+
+[:arrow_backward: Previous Page : Loops : For Loop :key: ](loops/for-loop.md)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:house_with_garden:](../../README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [:arrow_forward: Next Page : Control Flow : Array :triangular_flag_on_post: :unlock: ](array.md)
