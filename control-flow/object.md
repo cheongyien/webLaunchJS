@@ -29,8 +29,9 @@ So if i want to take a look of what is stored in this person, i can just `consol
 >   ![](../.gitbook/assets/gitbook_object.jpg)
 <br><hr>
 
-> <details><summary>Upon Expanding</summary><br>   
->>  ![](../.gitbook/assets/gitbook_object_expand.jpg)<br><hr></details>
+<details><summary>Upon Expanding</summary><br>   
+
+>> ![](../.gitbook/assets/gitbook_object_expand.jpg)<br><hr></details>
 </details>
 
 #### To print the properties of an object
