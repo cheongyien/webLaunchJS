@@ -66,7 +66,7 @@ In JavaScript we can store different types of data in an **array**. You can try 
 
 
 <br><br><br>
-
+<hr>
 [:arrow_backward: Previous Page : Basics of JavaScript : Primitive Types :unlock:](primitive-types.md)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:house_with_garden:](../README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [:arrow_forward: Next Page : Control Flow : Conditional Statements :triangular_flag_on_post:](array.md)
 
 
