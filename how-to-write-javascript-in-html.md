@@ -115,9 +115,9 @@ We need to include **`<script>   </script>`** in the **`<body>`** of the HTML el
 
 >These are the outputs:<br>
 
->> <details><summary> alert('Hello World'); </summary><br>
->>  ![](.gitbook/assets/gitbook_js_html_2.jpg) 
->>  </details>
+>> <details><summary> alert('Hello World'); </summary><br>  
+    
+>>  ![](.gitbook/assets/gitbook_js_html_2.jpg) </details>
 
 <details><summary> document.write('I love WebLaunch'); </summary><br>
 
