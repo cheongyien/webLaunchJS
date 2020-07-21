@@ -1,4 +1,4 @@
-# While Loop
+# :key: While Loop
 
 **While loop** comes into handy if i were to repeat the same task several times.
 
@@ -12,11 +12,11 @@ while(count <=100){
 }
 ```
 
-{% hint style="info" %}
-First, initialise the **`count`** to 1.
+>   :information_source:    First, initialise the **`count`** to 1. <br>    Set the condition to **`count <=100`**so that the loop will goes on as long as the count is less than or equals to 100. <br> Lastly, in the while loop, remember to state if the count will be of increment value **`count ++`** or decrement value **`count --`**
 
-Set the condition to**`count <=100`**so that the loop will goes on as long as the count is less than or equals to 100.
+<br><br><br>
+<hr>
 
-Lastly, in the while loop, remember to state if the count will be of increment value **`count ++`** or decrement value **`count --`**
-{% endhint %}
+[:arrow_backward: Previous Page : Control Flow : Loops :triangular_flag_on_post: :unlock:](../loops/README.md)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:house_with_garden:](../../README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [:arrow_forward: Next Page : Loops : For Loop :key: ](for-loop.md)
+
 
