@@ -2,9 +2,11 @@
 
 JavaScript is a dynamic , interpreted and high-level programming language. In here, we are going to cover necessary skills in JavaScript that will help you in creating a web page.
 <br>
-
+##
 [:pushpin:  Click here to view the GitBook Version](cheongyien.gitbook.io/javascript)   &nbsp;&nbsp;&nbsp;&nbsp;
 [:pushpin:  Click here for slides]()
+## 
+
 <br>
 
 ## :memo: Table of contents
