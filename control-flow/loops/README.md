@@ -5,17 +5,19 @@
 
 There are mainly two types of loop that we will be learning:
 
-* [While loop](while-loop.md)
+<details><summary>While Loop</summary><br>
 
-> Have the following syntax
+> **[While loop](while-loop.md)**
+
+Have the following syntax
 
 ```javascript
-  while (condition) {
-    // code block to be executed
+while (condition) {
+  // code block to be executed
   }
 ```
 
-> Here's an example:
+Here's an example:
 
 ```javascript
   while(let counter = 0){
@@ -23,15 +25,18 @@ There are mainly two types of loop that we will be learning:
       counter ++;
   }
 ```
+</details>
 
-* [For loop](for-loop.md)
+<details><summary>For Loop</summary><br>
 
-> Have the following syntax
+> **[For loop](for-loop.md)**
+
+Have the following syntax
 
 ```javascript
-  for (statement 1; statement 2; statement 3) {
-    // code block to be executed
-  }
+for (statement 1; statement 2; statement 3) {
+// code block to be executed
+}
 ```
 
 > **Statement 1** is executed \(one time\) before the execution of the code block.
@@ -40,13 +45,14 @@ There are mainly two types of loop that we will be learning:
 
 > **Statement 3** is executed \(every time\) after the code block has been executed.
 
-> So here's an example: 
+So here's an example: 
 
 ```javascript
-  for ( let counter = 0; counter <=5; counter ++ ){
-      console.log('HI');
-  }
+for ( let counter = 0; counter <=5; counter ++ ){
+    console.log('HI');
+}
 ```
+</details>
 
 <br><br><br>
 <hr>
