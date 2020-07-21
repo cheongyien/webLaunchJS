@@ -15,7 +15,7 @@ function name_of_function (parameters){
 }
 ```
 
-> <br><hr>  :information_source:    **`parameters`** can be empty **`()`** if there is no argument to be passed in.
+>  :information_source:    **`parameters`** can be empty **`()`** if there is no argument to be passed in.
 <br><hr>
 
 For instance, i would like to create a **function** named greet, that will pop up a hi message with the user's name when he or she login. This is how i do it:
