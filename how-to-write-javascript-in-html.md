@@ -122,15 +122,15 @@ We need to include **`<script>   </script>`** in the **`<body>`** of the HTML el
 
 <details><summary> alert('Hello World'); </summary><br>  
     
-![](.gitbook/assets/gitbook_js_html_2.jpg) </details>
+![](.gitbook/assets/gitbook_js_html_2.jpg) <br><hr></details>
 
 <details><summary> document.write('I love WebLaunch'); </summary><br>
 
-![](.gitbook/assets/gitbook_js_html_1.jpg) </details>
+![](.gitbook/assets/gitbook_js_html_1.jpg) <br><hr></details>
 
 <details><summary> document.getElementById('this').innerHTML='Change to This!'; </summary><br>
 
-![](.gitbook/assets/gitbook_js_html_3.jpg) |</details>
+![](.gitbook/assets/gitbook_js_html_3.jpg) <br><hr></details>
 
 
 <br><br><br>
