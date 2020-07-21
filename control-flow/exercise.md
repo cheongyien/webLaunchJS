@@ -52,7 +52,7 @@ function showStars(num){
 </details>
 
 
->   :white_check_mark:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Yeah 🎉🎉🎉You have now mastered basics and control flow of JavaScript🎉🎉🎉!
+>   :white_check_mark:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Yeah 🎉🎉🎉You have now mastered the basics and control flow of JavaScript🎉🎉🎉!
 <br><hr>
 
 <br><br><br>
