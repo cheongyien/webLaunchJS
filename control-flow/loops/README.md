@@ -1,12 +1,11 @@
----
-description: 'Loops are use to repeat the action stated in the curly braces { }.'
----
+# :unlock:  Loops
 
-# Loops
+>Loops are use to repeat the action stated in the curly braces { }.
+
 
 There are mainly two types of loop that we will be learning:
 
-* [While loop](for-loop-1.md)
+* [While loop](while-loop.md)
 
 Have the following syntax
 
