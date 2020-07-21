@@ -4,7 +4,7 @@
 
 Over here, we are going to teach you 3 methods to write a message in JavaScript.
 
-<details><summary> **alert\(\)** </summary>
+<details><summary> alert()</summary>
 <br>
 
 ```javascript
@@ -16,7 +16,7 @@ Over here, we are going to teach you 3 methods to write a message in JavaScript.
 
 <br>
 
-<details><summary> **document.write\(\)** </summary>
+<details><summary> document.write() </summary>
 <br>
 
 ```javascript
@@ -29,7 +29,7 @@ Over here, we are going to teach you 3 methods to write a message in JavaScript.
 
 <br>
 
-<details><summary> **innerHTML** </summary>
+<details><summary> innerHTML </summary>
 <br>
 
 **`innerHTML`** has to be tagged along with the element that you want to change using a query selector.
@@ -115,20 +115,19 @@ We need to include **`<script>   </script>`** in the **`<body>`** of the HTML el
 
 >These are the outputs:<br>
 
-<details><summary> alert\(\'Hello World\'\); </summary><br>
+>> <details><summary> alert('Hello World'); </summary><br>
+>>  ![](.gitbook/assets/gitbook_js_html_2.jpg) 
+>>  </details>
 
-![](.gitbook/assets/gitbook_js_html_2.jpg) 
-</details>
-
-<details><summary> document.write\(\'I love WebLaunch\'\); </summary><br>
+<details><summary> document.write('I love WebLaunch'); </summary><br>
 
 ![](.gitbook/assets/gitbook_js_html_1.jpg) 
-<details>
+</details>
 
-<details><summary> document.getElementById\(\'this\'\).innerHTML=\'Change to This!\'; </summary><br>
+<details><summary> document.getElementById('this').innerHTML='Change to This!'; </summary><br>
 
 ![](.gitbook/assets/gitbook_js_html_3.jpg) |
-<details>
+</details>
 
 
 <br><br><br>
