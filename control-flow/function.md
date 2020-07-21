@@ -1,10 +1,9 @@
----
-description: JavaScript function is a block of code designed to perform a particular task.
----
+# :unlock:  Function
 
-# Function
+>   JavaScript function is a block of code designed to perform a particular task.
 
-We have actually used a **function** many times without us knowing, that is [`alert()`](../how-to-write-javascript-in-html.md#how-to-write-a-message-in-javascript),which displays an alert box with a specified message on it.
+
+We have actually used a **function** many times without us knowing, that is [`alert()`](../../how-to-write-javascript-in-html.md),which displays an alert box with a specified message on it.
 
 A **function** is written with the **`function`**keyword, followed by a name of the function, and a  parentheses \(\).
 
@@ -16,9 +15,8 @@ function name_of_function (parameters){
 }
 ```
 
-{% hint style="info" %}
-**`parameters`** can be empty **`()`** if there is no argument to be passed in.
-{% endhint %}
+>   :information_source:    **`parameters`** can be empty **`()`** if there is no argument to be passed in.
+<br><hr>
 
 For instance, i would like to create a **function** named greet, that will pop up a hi message with the user's name when he or she login. This is how i do it:
 
@@ -28,3 +26,7 @@ function greet (name){
 }
 ```
 
+<br><br><br>
+<hr>
+
+[:arrow_backward: Previous Page : Control Flow : Array :triangular_flag_on_post: :unlock: ](array.md)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:house_with_garden:](../../README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [:arrow_forward: Next Page : Control Flow : Exercise :triangular_flag_on_post: :dart: ](exercise.md)
