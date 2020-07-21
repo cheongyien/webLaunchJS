@@ -47,7 +47,7 @@ console.log(colours[4]);
 :heavy_check_mark: Let's try adding colour `'blue'` into the **array**.
 
 >   :information_source:        Since the index number for the last item is 4, adding a new colour into the list will take up index 5. Therefore, we assign index number 5 with **`'blue'`**.
-<hr>
+<br><hr>
 
 #### Copy the code below and check if you get the same output as shown in the console tab.
 
