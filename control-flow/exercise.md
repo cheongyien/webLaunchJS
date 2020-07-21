@@ -10,7 +10,7 @@ Create a function named sum, that will return the total,that was calculated by a
 >   :information_source:    **For instance:** <br>`sum(5)`<br>**Output:**<br>`8`<br>**Output = 3 + 5, that is anything divisible by 3 or 5 that is within the range of 5.**
 <br><hr>
 
-<details><summary> :crossed_flags: Click Me For Answer! :crossed_flags: </summary><br>
+<details><summary> :crossed_flags: **Click Me For Answer!** :crossed_flags: </summary><br>
 
 ```javascript
 function sum (num){
@@ -37,7 +37,7 @@ Print the pattern of asterisks\(\*\) as shown below:
 >   information_source: The number of asterisks \(\*\) is proportional to its row number.
 <br><hr>
 
-<details><summary> :crossed_flags: Click Me For Answer! :crossed_flags: </summary><br>
+<details><summary> :crossed_flags: **Click Me For Answer!** :crossed_flags: </summary><br>
 
 ```javascript
 function showStars(num){
@@ -52,7 +52,7 @@ function showStars(num){
 </details>
 
 
->   :white_check_mark:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :crossed_flags: Yeah 🎉🎉🎉You have now mastered basics and control flow of JavaScript🎉🎉🎉!   :crossed_flags:
+>   :white_check_mark:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Yeah 🎉🎉🎉You have now mastered basics and control flow of JavaScript🎉🎉🎉!
 <br><hr>
 
 <br><br><br>
