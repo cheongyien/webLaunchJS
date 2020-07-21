@@ -17,7 +17,7 @@ for (let count = 0; count < colours.length; count ++){
 ```
 
 > :information_source:  **`colours[count]`** refers to the item in array **`colours`**, with the index number equivalent to count. If **`count = 0`**, **`colours[count]`** --&gt; **`colours[0]`** --&gt; **`'red'`**
-
+<br><hr>
 
 <br><br><br>
 <hr>

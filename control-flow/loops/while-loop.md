@@ -13,6 +13,7 @@ while(count <=100){
 ```
 
 >   :information_source:    First, initialise the **`count`** to 1. <br>    Set the condition to **`count <=100`**so that the loop will goes on as long as the count is less than or equals to 100. <br> Lastly, in the while loop, remember to state if the count will be of increment value **`count ++`** or decrement value **`count --`**
+<br><hr>
 
 <br><br><br>
 <hr>

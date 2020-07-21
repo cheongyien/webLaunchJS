@@ -55,6 +55,7 @@ for (let properties in person ){
 ```
 
 >   :warning:   **`person.properties`**`shows the value of the properties.`
+<br><hr>
 
 <br><br><br>
 <hr>

@@ -11,7 +11,7 @@ for (let count = 1; count <=100; count ++){
 ```
 
 > :information_source: Initiate `count` to 1 and then set the condition to `count <=100`, meaning the loop will iterate as long as the count is less than or equal to 100. `count ++` means the count will increase after each iteration.
-<br>
+<br><hr>
 
 In **for loop**, we initiate the counter, count condition and count increment in the parenthesis `( )`after `for` .
 
