@@ -17,7 +17,7 @@ In order to print the variables that you have keyed in to the console, you can u
 <br>
 
 > :information_source:  **You can press `Ctrl + Shift + i` to open the console in your browser.**
-<br>
+<br><hr>
 
 We can actually use the variable type, `string`, to store a string value.
 

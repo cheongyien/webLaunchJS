@@ -24,9 +24,11 @@ console.log(colours);
 
 >   This is the output in the console
 >>  ![](../.gitbook/assets/image%20%285%29.png)
+<br><hr>
 
 >   You will see this by expanding the array
 >>  ![](../.gitbook/assets/image%20%2813%29.png)
+<br><hr>
 
 You will see an **array** of the 5 elements and each have them have an index number that determines the position of each colour in the array.
 
@@ -45,6 +47,7 @@ console.log(colours[4]);
 :heavy_check_mark: Let's try adding colour `'blue'` into the **array**.
 
 >   :information_source:        Since the index number for the last item is 4, adding a new colour into the list will take up index 5. Therefore, we assign index number 5 with **`'blue'`**.
+<br><hr>
 
 #### Copy the code below and check if you get the same output as shown in the console tab.
 
@@ -55,6 +58,7 @@ console.log(colours[4]);
 
 >   And you should see this in your console.
 >>  ![](../.gitbook/assets/image%20%287%29.png)
+<br><hr>
 
 <br>
 
@@ -68,6 +72,7 @@ console.log(colours[4]);
 
 >   Result in console
 >>  ![](../.gitbook/assets/image%20%2811%29.png)
+<br><hr>
 
 
 <br><br><br>

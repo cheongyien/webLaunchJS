@@ -9,7 +9,7 @@ console.log(birthMonth);
 <br>
 
 > :information_source:  We are not allowed to change the value of a constant. 
-<br>
+<br><hr>
 
 
 
