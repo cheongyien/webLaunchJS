@@ -7,7 +7,7 @@
 
 Create a function named sum, that will return the total,that was calculated by adding from numbers that are divisible by either 3 or 5 in the range of value stated.
 
->   :information_source:    **For instance:** <br>`sum(5)`<br>**Output:**<br>`8`<br>**Output = 3 + 5, that is anything divisible by 3 or 5 that is within the range of 5.**
+>   :information_source:    &nbsp;&nbsp;&nbsp;&nbsp;**For instance:** <br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    `sum(5)`<br>    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    **Output:**<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    `8`<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    **Output = 3 + 5, that is anything divisible by 3 or 5 that is within the range of 5.**
 <br><hr>
 
 <details><summary> :crossed_flags: Click Me For Answer! :crossed_flags: </summary><br>
@@ -37,7 +37,7 @@ Print the pattern of asterisks\(\*\) as shown below:
 >   :information_source: The number of asterisks \(\*\) is proportional to its row number.
 <br><hr>
 
-<details><summary> :crossed_flags: **Click Me For Answer!** :crossed_flags: </summary><br>
+<details><summary> :crossed_flags: Click Me For Answer! :crossed_flags: </summary><br>
 
 ```javascript
 function showStars(num){
