@@ -32,12 +32,12 @@ Over here, we are going to teach you 3 methods to write a message in JavaScript.
 
 * **innerHTML**
 
-    **`innerHTML`** has to be tagged along with the element that you want to change using a query selector.<br>
+    > **`innerHTML`** has to be tagged along with the element that you want to change using a query selector.<br>
 
     > :information_source:  In this section, the query selector that you will learn is **`getElementById()`**
 
 
-    If i were to modify the message in `<p>` with `id='change'`to "Hello World", I can choose the element by using `getElementById("change")`and assign it with the value I want.
+    > If i were to modify the message in `<p>` with `id='change'`to "Hello World", I can choose the element by using `getElementById("change")`and assign it with the value I want.
 
 <br>
 
@@ -101,7 +101,7 @@ We need to include **`<script>   </script>`** in the **`<body>`** of the HTML el
 </html>
 ```
 
-These are the outputs:<br>
+> These are the outputs:<br>
 
 | alert\(\'Hello World\'\); | document.write\(\'I love WebLaunch\'\); | document.getElementById\(\'this\'\).innerHTML=\'Change to This!\'; |
 |---|---|--|
