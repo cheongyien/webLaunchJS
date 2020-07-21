@@ -41,4 +41,4 @@ else
 <br><br><br>
 <hr>
 
-[:arrow_backward: Previous Page : Conditional Statements : If...Else :key: ](if-and-else-if....else.md)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:house_with_garden:](../../README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [:arrow_forward: Next Page : Conditional Statements : Switch and Case :key: ](switch-and-case.md)
+[:arrow_backward: Previous Page : Control Flow : Conditional Statements :triangular_flag_on_post:](../control-flow/conditional-statements/README.md)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:house_with_garden:](../../README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [:arrow_forward: Next Page : Conditional Statements : Switch and Case :key: ](switch-and-case.md)
