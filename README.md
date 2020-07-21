@@ -25,4 +25,4 @@ JavaScript is a dynamic , interpreted and high-level programming language. In he
   - :unlock: [_Object_](control-flow/object.md)
   - :unlock: [_Array_](control-flow/array.md)
   - :unlock: [_Function_](control-flow/function.md)
-  - :unlock: [_Exercise_](control-flow/exercise.md)
+  - :dart: [_Exercise_](control-flow/exercise.md)
