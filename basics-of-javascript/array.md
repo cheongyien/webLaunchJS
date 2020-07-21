@@ -12,6 +12,7 @@ let colours = [];
 ```
 
 So the square brackets `[ ]` are called the **array** literals and they indicate an empty **array**.
+
 <br>
 
 :heavy_check_mark: Now, let's fill in the arrays with some colours and use `console.log()` to show your colours in the console.
@@ -72,6 +73,6 @@ console.log(colours[4]);
 <br><br><br>
 <hr>
 
-[:arrow_backward: Previous Page : Basics of JavaScript : Primitive Types :unlock:](primitive-types.md)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:house_with_garden:](../README.md)&nbsp;&nbsp;&nbsp;    [:arrow_forward: Next Page : Control Flow : Conditional Statements :triangular_flag_on_post:](array.md)
+[:arrow_backward: Previous Page : Basics of JavaScript : Primitive Types :unlock:](primitive-types.md)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:house_with_garden:](../README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [:arrow_forward: Next Page : Control Flow : Conditional Statements :triangular_flag_on_post:](array.md)
 
 
