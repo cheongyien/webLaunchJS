@@ -2,17 +2,21 @@
 
 JavaScript is a dynamic , interpreted and high-level programming language. In here, we are going to cover necessary skills in JavaScript that will help you in creating a web page.
 <br>
+
 ##
-[:pushpin:  Click here to view the GitBook Version](https://cheongyien.gitbook.io/javascript/)   &nbsp;&nbsp;&nbsp;&nbsp;
-[:pushpin:  Click here for slides](https://slides.com/cheongyien/javascript_stc)
-## 
+
+[:pushpin: Click here to view the GitBook Version](https://cheongyien.gitbook.io/javascript/) &nbsp;&nbsp;&nbsp;&nbsp;
+[:pushpin: Click here for slides](https://slides.com/cheongyien/javascript_stc)
+[:pushpin: Download files for hands on](<a href="hands_on" donwload></a>)
+
+##
 
 <br>
 
 ## :memo: Table of contents
 
-- :triangular_flag_on_post: [_JavaScript_](javascript.md)
-- :triangular_flag_on_post: [_How to write JavaScript in HTML_](how-to-write-javascript-in-html.md)
+- :triangular*flag_on_post: [\_JavaScript*](javascript.md)
+- :triangular*flag_on_post: [\_How to write JavaScript in HTML*](how-to-write-javascript-in-html.md)
 - :triangular_flag_on_post: Basics of JavaScript
 
   - :unlock: [_Variables_](basics-of-javascript/variables.md)
@@ -32,8 +36,9 @@ JavaScript is a dynamic , interpreted and high-level programming language. In he
   - :unlock: [_Array_](control-flow/array.md)
   - :unlock: [_Function_](control-flow/function.md)
   - :dart: [_Exercise_](control-flow/exercise.md)
-  
+
 <br><br><br>
+
 <hr>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ :arrow_forward: Next Page : JavaScript :triangular_flag_on_post: ](javascript.md)
