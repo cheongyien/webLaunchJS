@@ -1,0 +1,56 @@
+html {
+  padding: 0px 50px;
+}
+body {
+  display: inline-block;
+}
+.title {
+  display: inline-flex;
+  align-content: center;
+}
+img {
+  height: 80px;
+  margin: 20px 5px 5px 10px;
+}
+
+h1 {
+  padding: 25px 10px 0px 10px;
+}
+
+.textBox {
+  border: 5px solid cornflowerblue;
+  min-height: 482px;
+  padding: 10px;
+  margin: 10px;
+  align-content: center;
+}
+.content {
+  padding: 10px;
+  margin: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  font-style: oblique;
+}
+
+footer {
+  margin: 10px;
+}
+
+@media screen and (max-width: 800px) {
+  img {
+    height: 120px;
+    margin: 20px 5px 5px 10px;
+  }
+
+  h1 {
+    padding: 0px 10px 0px 10px;
+    margin-bottom: 0px;
+  }
+
+  .textBox {
+    border: 5px solid cornflowerblue;
+    min-height: 450px;
+    padding: 0px 10px;
+    margin: 10px;
+  }
+}
