@@ -6,7 +6,7 @@ JavaScript is a dynamic , interpreted and high-level programming language. In he
 ##
 
 [:pushpin: Click here to view the GitBook Version](https://cheongyien.gitbook.io/javascript/) &nbsp;&nbsp;&nbsp;&nbsp;
-[:pushpin: Click here for slides](https://slides.com/cheongyien/javascript_stc)
+[:pushpin: Click here for slides](https://slides.com/cheongyien/javascript_stc) &nbsp;&nbsp;&nbsp;&nbsp;
 [:pushpin: Download files for hands on](<a href="hands_on" donwload></a>)
 
 ##
