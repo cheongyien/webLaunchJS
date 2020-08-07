@@ -47,6 +47,15 @@ footer {
   margin: 10px;
 }
 
+button {
+  margin: 15px;
+  padding: 5px;
+  background-color: cornflowerblue;
+  color: azure;
+  border-radius: 10px;
+  border-color: azure;
+}
+
 @media screen and (max-width: 800px) {
   img {
     height: 120px;
