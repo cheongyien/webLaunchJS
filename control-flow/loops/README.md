@@ -24,7 +24,6 @@ Here's an example:
   while(counter < 5){
     console.log('Hi');
     counter ++;
-}
   }
 ```
 </details>
