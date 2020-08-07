@@ -16,19 +16,26 @@
       </h1>
     </div>
     <div class="textBox">
-      <div class="content">
-        This is the first line. <br />
-        This is the second line. <br />
+      <div class="content" id="content">
+        <p>This is the first line.</p>
+        <br />
+        <p>This is the second line.</p>
+        <br />
         <p id="change">Change me to something else please /.\</p>
+
+        <!-- <script src="webLaunch_js.js"></script> -->
+
+        <script>
+          // alert("Hello Welcome to Web Launch 2020 ! This is Yien ^^ ");
+          // document.write("Hello Welcome to Web Launch 2020 ! This is Yien ^^ ");
+          // document.getElementById("change").innerHTML = "Hello Welcome to Web Launch 2020 ! This is Yien ^^ ";
+          function add() {
+            let new_text_node = document.createTextNode("I am new text node");
+            document.querySelector("#content").appendChild(new_text_node);
+          }
+        </script>
       </div>
-      <script>
-        function show() {
-          document.write(
-            "Hello, \nCongratulations on finishing this part with me ! \nLet's proceed to our last phase.\n\nRegards, Yien"
-          );
-        }
-      </script>
-      <button onclick="show();">Don't Click Me</button>
+      <button onclick="add();">Don't Click Me</button>
     </div>
   </body>
 
