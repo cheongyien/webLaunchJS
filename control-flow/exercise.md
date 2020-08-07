@@ -97,8 +97,12 @@ Regards,
 ```
 </details>
 
+<br><br>
 >   :white_check_mark:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Yeah 🎉🎉🎉You have now mastered the basics and control flow of JavaScript🎉🎉🎉!
 <br><hr>
+
+<br>
+<a href="https://github.com/cheongyien/webLaunchJS/blob/master/hands_on/completed.zip" download="WebLaunch2020_JS_Completed"> :pushpin: Download completed files for hands on</a>
 
 <br><br><br>
 <hr>
