@@ -51,6 +51,50 @@ function showStars(num){
 ```
 </details>
 
+### <ins>Exercise 3</ins>
+
+Create a button that will show this line of message on screen when it is clicked :
+
+Hello, 
+  Congratulations on finishing this part with me !
+    Let's proceed to our last phase.
+
+Regards,
+  Yien
+  
+<details><summary> :crossed_flags: Click Me For Answer! :crossed_flags: </summary><br>
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="favicon.png" />
+    <title>WebLaunch 2020 : JavaScript</title>
+  </head>
+
+  <body>
+      <h1>
+        Welcome to Sunway Tech Club WebLaunch 2020 JavaScript Workshop
+      </h1>
+        
+        This is the first line. <br />
+        This is the second line. <br />
+        
+        <p id="change">Change me to something else please /.\</p>
+
+        <script>
+          function show(){
+          document.write("Hello, \nCongratulations on finishing this part with me ! \nLet's proceed to our last phase.\n\nRegards, Yien");
+        } 
+        <script/>
+
+      <button >Don't Click Me</button>
+
+  </body>
+</html>
+```
+</details>
 
 >   :white_check_mark:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Yeah 🎉🎉🎉You have now mastered the basics and control flow of JavaScript🎉🎉🎉!
 <br><hr>
