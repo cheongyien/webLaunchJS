@@ -89,6 +89,8 @@ If i were to modify the message in `<p>` with `id='change'`to "Hello World", I c
 
 We need to include **`<script>   </script>`** in the **`<body>`** of the HTML element.
 
+You can add JavaScript code in an HTML document by employing the dedicated HTML tag <script> that wraps around JavaScript code. The <script> tag can be placed in the <head> section of your HTML, in the <body> section, or after the </body> close tag, depending on when you want the JavaScript to load.
+
 ```HTML
 <!DOCTYPE html>
 <html>
