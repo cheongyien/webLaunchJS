@@ -20,9 +20,11 @@ while (condition) {
 Here's an example:
 
 ```javascript
-  while(let counter = 0){
-      console.log('Hi');
-      counter ++;
+  let counter = 0
+  while(counter < 5){
+    console.log('Hi');
+    counter ++;
+}
   }
 ```
 </details>
