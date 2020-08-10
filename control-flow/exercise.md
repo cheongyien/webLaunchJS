@@ -90,7 +90,46 @@ Regards,
         } 
         <script/>
 
-      <button >Don't Click Me</button>
+      <button onclikc="show();">Don't Click Me</button>
+
+  </body>
+</html>
+```
+</details>
+
+### <ins>Exercise 4</ins>
+
+Create a button that will add a new text node when it is clicked.  
+<details><summary> :crossed_flags: Click Me For Answer! :crossed_flags: </summary><br>
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="favicon.png" />
+    <title>WebLaunch 2020 : JavaScript</title>
+  </head>
+
+  <body>
+      <h1>
+        Welcome to Sunway Tech Club WebLaunch 2020 JavaScript Workshop
+      </h1>
+      <div id="content">
+        <p>This is the first line.</p> <br />
+        <p>This is the second line.</p> <br />
+      </div>
+      <p id="change">Change me to something else please /.\</p>
+
+      <script>
+        function add(){
+            let new_text_node = document.createTextNode("I am new text node");
+            document.querySelector("#content").appendChild(new_text_node);
+      	}
+      <script/>
+
+      <button onclick="add();">Don't Click Me</button>
 
   </body>
 </html>
