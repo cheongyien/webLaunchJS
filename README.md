@@ -23,6 +23,7 @@ JavaScript is a dynamic , interpreted and high-level programming language. In he
   - :unlock: [_Variables_](basics-of-javascript/variables.md)
   - :unlock: [_Constant_](basics-of-javascript/constant.md)
   - :unlock: [_Primitive Types_](basics-of-javascript/primitive-types.md)
+  - :unlock: [_Arithmetic Operators_](basics-of-javascript/arithmetic-operators.md)
   - :unlock: [_Array_](basics-of-javascript/array.md)
 
 - :triangular_flag_on_post:Control Flow
