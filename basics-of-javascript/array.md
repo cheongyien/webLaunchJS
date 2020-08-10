@@ -83,4 +83,4 @@ console.log(colours);
 
 <hr>
 
-[:arrow_backward: Previous Page : Basics of JavaScript : Arithmetic Operators :unlock:](arithmetic-operators.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:house_with_garden:](../README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [:arrow_forward: Next Page : Control Flow : Conditional Statements :triangular_flag_on_post: :unlock:](../control-flow/conditional-statements/README.md)
+[:arrow_backward: Previous Page : Basics of JavaScript : Arithmetic Operators :unlock:](arithmetic-operators.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:house_with_garden:](../README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [:arrow_forward: Next Page : Control Flow : Conditional Statements :triangular_flag_on_post: :unlock:](../control-flow/conditional-statements/README.md)
