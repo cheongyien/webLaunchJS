@@ -1,7 +1,6 @@
-# :unlock:  Loops
+# :unlock: Loops
 
->Loops are used to repeat the action stated in the curly braces { }.
-
+> Loops are used to repeat the action stated in the curly braces { }.
 
 There are mainly two types of loop that we will be learning:
 
@@ -14,18 +13,19 @@ Have the following syntax
 ```javascript
 while (condition) {
   // code block to be executed
-  }
+}
 ```
 
 Here's an example:
 
 ```javascript
-  let counter = 0
-  while(counter < 5){
-    console.log('Hi');
-    counter ++;
-  }
+let counter = 0;
+while (counter < 5) {
+  console.log("Hi");
+  counter++;
+}
 ```
+
 </details>
 
 <details><summary>For Loop</summary><br>
@@ -46,16 +46,18 @@ for (statement 1; statement 2; statement 3) {
 
 > **Statement 3** is executed \(every time\) after the code block has been executed.
 
-So here's an example: 
+So here's an example:
 
 ```javascript
-for ( let counter = 0; counter <=5; counter ++ ){
-    console.log('HI');
+for (let counter = 0; counter <= 5; counter++) {
+  console.log("HI");
 }
 ```
+
 </details>
 
 <br><br><br>
+
 <hr>
 
-[:arrow_backward: Previous Page : Conditional Statements : Switch and Case :key: ](../conditional-statements/switch-and-case.md)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:house_with_garden:](../../README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [:arrow_forward: Next Page : Loops : While Loop :key: ](while-loop.md)
+[:arrow_backward: Previous Page : Control Flow : Comparison Operators :triangular_flag_on_post: :unlock: ](../comparison-operators.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:house_with_garden:](../../README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [:arrow_forward: Next Page : Loops : While Loop :key: ](while-loop.md)
