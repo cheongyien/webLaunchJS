@@ -2,8 +2,8 @@
 
 Let's try making the application to print out the choice that you have input using a switch case.
 
-> :information_source:  First, create a variable **`choice`**. 
-<br><hr>
+> :information_source: First, create a variable **`choice`**.
+> <br><hr>
 
 Then in the parenthesis of **`switch`**, key in the name of the input that will be tested, in this case choice.
 
@@ -15,19 +15,18 @@ After the word **`case`**, key in the possible choice, as such 'A', 'B', or 'C'.
 ```javascript
 let choice;
 
-switch (choice){
-    case 'A':
-        console.log('I chose A');
-        break;
-    case 'B':
-        console.log('I chose B');
-        break;
-    case 'C':
-        console.log('I chose C');
-        break;
-    default:
-        console.log('Please make a choice');
-    
+switch (choice) {
+  case "A":
+    console.log("I chose A");
+    break;
+  case "B":
+    console.log("I chose B");
+    break;
+  case "C":
+    console.log("I chose C");
+    break;
+  default:
+    console.log("Please make a choice");
 }
 ```
 
@@ -65,7 +64,7 @@ switch (choice){
         console.log("I LOVE Strawberries!");
         break;
     case 'B'
-        console.log("I LOVE Mango!");    
+        console.log("I LOVE Mango!");
         break;
     case 'C'
         console.log("I LOVE Durian!");
@@ -75,9 +74,11 @@ switch (choice){
 }
 
 ```
+
 </details>
 
 <br><br><br>
+
 <hr>
 
-[:arrow_backward: Previous Page : Conditional Statements : If...Else :key: ](if-and-else-if....else.md)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:house_with_garden:](../../README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [:arrow_forward: Next Page : Control Flow : Loops :triangular_flag_on_post: :unlock:](../loops/README.md)
+[:arrow_backward: Previous Page : Conditional Statements : If...Else :key: ](if-and-else-if....else.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:house_with_garden:](../../README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [:arrow_forward: Next Page : Control Flow : Conmparison Operators :triangular_flag_on_post: :unlock:](../comparison-operators.md)
