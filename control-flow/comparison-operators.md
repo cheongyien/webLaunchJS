@@ -1,6 +1,6 @@
 ## :unlock: Comparison Operators
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](.gitbook/assets/comparison_operators.png)
 <br><br><br>
 
 <hr>
