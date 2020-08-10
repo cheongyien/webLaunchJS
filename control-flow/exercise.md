@@ -141,7 +141,7 @@ Create a button that will add a new text node when it is clicked.
 <br><hr>
 
 <br>
-<a href="https://github.com/cheongyien/webLaunchJS/blob/master/hands_on/completed.zip" download="WebLaunch2020_JS_Completed"> :pushpin: Download completed files for hands on</a>
+<a href="https://github.com/cheongyien/webLaunchJS/raw/master/hands_on/completed.zip" download="WebLaunch2020_JS_Completed"> :pushpin: Download completed files for hands on</a>
 
 <br><br><br>
 <hr>
