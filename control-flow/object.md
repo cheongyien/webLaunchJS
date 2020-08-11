@@ -50,7 +50,7 @@ However, if i were to print both the properties and values of the object, i can 
 
 ```javascript
 for (let properties in person ){
-    console.log(properties,person.properties);
+    console.log(properties,person[properties]);
 }
 ```
 
