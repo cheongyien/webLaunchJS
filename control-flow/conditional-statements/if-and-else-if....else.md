@@ -30,7 +30,7 @@ If i'm hungry, I want the application to print `"I'm hungry!!!Feed me now!!!!"`.
 
 ```javascript
 let hungry = false;
-if (hungry === true){
+if (hungry){	//hungry === true
     console.log("I'm hungry!!!Feed me now!!!!");
 }
 else
